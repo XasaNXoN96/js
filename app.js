@@ -32,3 +32,7 @@ let n = 11
 
 console.log(m == n);
 console.log(m === n);
+
+
+let question = confirm('are you 18 years' )
+console.log(question);
